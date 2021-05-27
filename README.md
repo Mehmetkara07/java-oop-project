@@ -1,7 +1,7 @@
 # java-oop-project
 
 
- Outline: In this project, you are expected to write a program that calculates and keeps the tiredness of a rectangular
+ Outline: In this project, we are expected to write a program that calculates and keeps the tiredness of a rectangular
  field as a 2D int array (tirednessMap), given the information about which parts of the field has been planted in the
 previous years.
 In the first line, the horizontal size of the rectangular field (sizeX) and the vertical size of the rectangular field (sizeY)
